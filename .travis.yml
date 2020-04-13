@@ -1,0 +1,5 @@
+dist: bionic
+
+
+before_install:
+  - bash .ci/setup.sh
